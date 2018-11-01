@@ -4,11 +4,13 @@ This is the repository for AKteamRound
 
 ## Contents
 
-- \#RoundID/
+```plain
+- #RoundID/
 	- ProblemName/
 		  ProblemSet.md
 		  Solution.md
-		  std.\*
+		  std.*
 		- data/
 			*.in
 			*.out(*.ans)
+```
