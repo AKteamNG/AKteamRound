@@ -1,0 +1,25 @@
+subtasks:
+  - score: 10             
+    type: mul         
+    cases: ['1-1', '1-2', '1-3','1-4']      
+  - score: 24              
+    type: mul
+    cases: ['2-1', '2-2', '2-3','2-4'] 
+  - score: 1 
+    type: mul
+    cases: ['3-1']
+  - score: 20
+    type: mul
+    cases: ['4-1', '4-2', '4-3']
+  - score: 10
+    type: mul
+    cases: ['5-1','5-2']
+  - score: 10
+    type: mul
+    cases: ['6-1','6-2']
+  - score: 25
+    type: mul
+    cases: ['7-1','7-2','7-3','7-4']
+	  
+inputFile: 'G#.in'   
+outputFile: 'G#.out' 
